@@ -1,1 +1,0 @@
-# Ejercicios-algoritmia-segundo-parcial
