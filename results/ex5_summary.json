@@ -1,0 +1,43 @@
+{
+  "mst": {
+    "ratio_mean": 1.153083690800983,
+    "ratio_median": 1.16048267422164,
+    "ratio_max": 1.356410061820979,
+    "ratio_min": 0.9999999999999999,
+    "frac_optimo": 0.09,
+    "cost_mean": 317.67512967796046
+  },
+  "mst_2opt": {
+    "ratio_mean": 1.0056580383221365,
+    "ratio_median": 1.0,
+    "ratio_max": 1.136982532075124,
+    "ratio_min": 0.9999999999999998,
+    "frac_optimo": 0.81,
+    "cost_mean": 276.373217552891
+  },
+  "ls_aleatorio": {
+    "ratio_mean": 1.0041284029458526,
+    "ratio_median": 1.0,
+    "ratio_max": 1.1024195309173404,
+    "ratio_min": 0.9999999999999998,
+    "frac_optimo": 0.85,
+    "cost_mean": 275.8955487507792
+  },
+  "ls_nn": {
+    "ratio_mean": 1.0045799978675938,
+    "ratio_median": 1.0,
+    "ratio_max": 1.1378225671231081,
+    "ratio_min": 0.9999999999999998,
+    "frac_optimo": 0.85,
+    "cost_mean": 275.9972304898826
+  },
+  "sa": {
+    "ratio_mean": 1.0000000000000002,
+    "ratio_median": 1.0,
+    "ratio_max": 1.0000000000000049,
+    "ratio_min": 0.999999999999997,
+    "frac_optimo": 1.0,
+    "cost_mean": 274.71877978569313
+  },
+  "cota_2_violada": 0
+}
